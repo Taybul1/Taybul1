@@ -1,5 +1,4 @@
  
- ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://github.com/Taybul1/Taybul1/assets/139383900/711d9aac-1e9c-4fbe-9dbd-45d773a10bd5)
 
 <h1><i>Hi there,  I'm  <img align="center" alt="Md Taybul Islam Tasdid" width="500" src="https://github.com/Taybul1/Taybul1/blob/main/Picsart_24-04-02_13-29-39-857.jpg"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Md Taybul Islam Tasdid</i></h1> -->
@@ -74,7 +73,9 @@
   </tr>
 </table>
 <br>
- 
+
+  ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://github.com/Taybul1/Taybul1/assets/139383900/711d9aac-1e9c-4fbe-9dbd-45d773a10bd5)
+  
 ### Profile Visitors
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Taybul1.visitor-badge&left_color=blue&right_color=yellow)
