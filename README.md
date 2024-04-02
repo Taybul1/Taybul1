@@ -3,13 +3,13 @@
 <h1><i>Hi there,  I'm  <img align="center" alt="Md Taybul Islam Tasdid" width="500" src="https://github.com/Taybul1/Taybul1/blob/main/Picsart_24-04-02_13-29-39-857.jpg"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Md Taybul Islam Tasdid</i></h1> -->
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+#<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Md+Taybul+Islam;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LoveuAll)](https://git.io/typing-svg)
  
 </p>
  
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+#<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
  
