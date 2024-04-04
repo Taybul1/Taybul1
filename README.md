@@ -1,4 +1,13 @@
  
+<div align="center" width="50"> 
+</div>
+
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <h3> THANKS FOR VISIT </h3>
+</div>
 
 <h1><i>Hi there,  I'm  <img align="center" alt="Md Taybul Islam Tasdid" width="500" src="https://github.com/Taybul1/Taybul1/blob/main/Picsart_24-04-02_13-29-39-857.jpg"> </i> </h1>
 <!-- <h1><i>Hi there,  I'm Md Taybul Islam Tasdid</i></h1> -->
