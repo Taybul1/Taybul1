@@ -32,7 +32,7 @@
  
 <a href="https://www.facebook.com/taybulsadboy?mibextid=ZbWKwL"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdtaybul016333@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100094378521223&mibextid=ZbWKwL"><img title="Facebook Page" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=page&logoColor=white"></a>
+<a href="https://www.facebook.com/profile.php?id=100094378521223&mibextid=ZbWKwL"><img title="Facebook Page" src="https://img.shields.io/badge/facebook page-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 
  
