@@ -83,13 +83,5 @@
 
   ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://github.com/Taybul1/Taybul1/assets/139383900/711d9aac-1e9c-4fbe-9dbd-45d773a10bd5)
   
-### Profile Visitors
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Taybul1.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Taybul1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Taybul1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+### Allah Hafez
  
