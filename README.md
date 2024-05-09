@@ -81,7 +81,6 @@
 </table>
 <br>
 
-  ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594](https://github.com/Taybul1/Taybul1/assets/139383900/711d9aac-1e9c-4fbe-9dbd-45d773a10bd5)
-  
+
 ### Allah Hafez
  
